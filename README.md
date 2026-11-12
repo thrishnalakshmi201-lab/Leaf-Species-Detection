@@ -79,9 +79,7 @@ Leaf-Species-Detection/
 
 **Step 1: Clone the repository**
 
-```bash
-git clone https://github.com/YOUR-USERNAME/iris-flower-species-classification.git
-```
+git clone https://github.com/thrishnalakshmi201-lab/Leaf-Species-Detection.git
 
 **Step 2: Navigate to the project folder**
 
