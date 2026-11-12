@@ -129,12 +129,5 @@ It predicts the corresponding Iris flower species.
 - Evaluating classification models.
 - Making predictions using trained models.
 
-## 👩‍💻 Author
-
-**Your Name**
-
-Machine Learning Project | Python | Scikit-learn
-
----
-
-⭐ If you find this project useful, feel free to star this repository!
+git clone https://github.com/thrishnalakshmi201-lab/Leaf-Species-Detection.git
+cd Leaf-Species-Detection
